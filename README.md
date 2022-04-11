@@ -35,4 +35,10 @@ I'm currently learning:
 - React.js
 - Next.js
 
-### 🖥️ Setup 
+### ⚡ IDE
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Visual Studio](https://visualstudio.microsoft.com/)
+- [IntelliJ IDEA](https://www.jetbrains.com/de-de/idea/)
+- [Notepad++](https://notepad-plus-plus.org/)
+- [DBeaver](https://dbeaver.io/)
