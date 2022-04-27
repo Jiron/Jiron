@@ -5,7 +5,7 @@
 - 👨🏼‍🎓 I currently have an apprenticeship at [BBW](https://www.bbw.ch/) (Switzerland)
 - 👨🏼‍💻 While I'm in the apprenticeship mentioned above, I work part-time at [OPTEN AG](https://www.opten.ch/) (Switzerland) 
 - 🔭 I’m currently working on small private projects, but am ready to start big ones anytime!
-- 📫 How to reach me: Add me on Discord ([Jiron#0001](https://discordapp.com/users/501819491764666386/)) or send me an E-Mail contact@jiron.dev
+- 📫 How to reach me: Add me on Discord ([Jiron#0001](https://discordapp.com/users/501819491764666386/)) or send me an E-Mail (contact@jiron.dev).
 - ⚡ Fun fact: I'm pretty good at coding Discord bots :)
 
 ### 🔗 Social Media
