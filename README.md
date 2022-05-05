@@ -42,3 +42,7 @@ I'm currently learning:
 - [IntelliJ IDEA](https://www.jetbrains.com/de-de/idea/)
 - [Notepad++](https://notepad-plus-plus.org/)
 - [DBeaver](https://dbeaver.io/)
+
+### Donations 💲 (very appreciated) 
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jiron)
