@@ -18,21 +18,24 @@
 I have lots of experience with...:
 
 - JavaScript, Typescript, Node.js
-- (CS)HTML, (S)CSS, EJS (Bootstrap, Tailwind)
+- C#
+- (CS)HTML, (S)CSS, EJS
+- Bootstrap, Tailwind
 - Discord.js
 - MariaDB
 - Umbraco
 - Angular
+- React Native
+- React.js
+- MongoDB
 
 And have a tiny bit of experience with...:
 
 - Vue.js
-- MongoDB
 
 I'm currently learning:
 
 - Python, Java
-- React.js
 - Next.js
 
 ### ⚡ IDE
