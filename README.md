@@ -2,10 +2,11 @@
 (Jokes aside, my actual Name is Manassés)
 
 - 😄 Pronouns: He/Him
-- 👨🏼‍🎓 I currently have an apprenticeship at [BBW](https://www.bbw.ch/) (Switzerland)
-- 👨🏼‍💻 While I'm in the apprenticeship mentioned above, I work part-time at [OPTEN AG](https://www.opten.ch/) (Switzerland) 
+- 👨🏼‍🎓 I had my apprenticeship at [BBW](https://www.bbw.ch/) (Switzerland)
+- 👨🏼‍💻 I currently work full time at [OPTEN AG](https://www.opten.ch/) (Switzerland)
+- 📄 I'm a certified Umbraco Professional
 - 🔭 I’m currently working on small private projects, but am ready to start big ones anytime!
-- 📫 How to reach me: Add me on Discord ([Jiron#0001](https://discordapp.com/users/501819491764666386/)), join my [Discord Server](https://discord.gg/zmE5JnjsMa) or send me an E-Mail to: contact@jiron.dev.
+- 📫 How to reach me: Add me on Discord ([Jiron](https://discordapp.com/users/501819491764666386/)), join my [Discord Server](https://discord.gg/zmE5JnjsMa) or send me an E-Mail to: contact@jiron.dev.
 - ⚡ Fun fact: I'm pretty good at coding Discord bots :)
 
 ### 🔗 Social Media
