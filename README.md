@@ -51,6 +51,7 @@ I'm currently learning:
 ### Certifications
 
 <img align="left" alt="Linkedin" width="100px" src="https://raw.githubusercontent.com/Jiron/Jiron/refs/heads/main/Umbraco_Cert_Small.png"/>
+<br>
 
 ### Donations 💲 (very appreciated) 
 
