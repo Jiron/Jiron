@@ -50,7 +50,7 @@ I'm currently learning:
 
 ### Certifications
 
-!["Umb Cert"](https://raw.githubusercontent.com/Jiron/Jiron/refs/heads/main/Umbraco_Cert_Small.png)
+!["Umb Cert"](https://raw.githubusercontent.com/Jiron/Jiron/refs/heads/main/Umbraco_Cert_Small.png){:width="100px"}
 
 ### Donations 💲 (very appreciated) 
 
