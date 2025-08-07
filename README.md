@@ -52,7 +52,8 @@ I'm currently learning:
 
 <img align="left" alt="Linkedin" width="100px" src="https://raw.githubusercontent.com/Jiron/Jiron/refs/heads/main/Umbraco_Cert_Small.png"/>
 <br>
-<br>
+
+---
 
 ### Donations 💲 (very appreciated) 
 
