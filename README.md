@@ -30,6 +30,7 @@ I have lots of experience with...:
 - React.js
 - MongoDB
 
+
 And have a tiny bit of experience with...:
 
 - Vue.js
@@ -46,6 +47,10 @@ I'm currently learning:
 - [IntelliJ IDEA](https://www.jetbrains.com/de-de/idea/)
 - [Notepad++](https://notepad-plus-plus.org/)
 - [DBeaver](https://dbeaver.io/)
+
+### Certifications
+
+<img align="left" alt="Linkedin" width="100px" src="https://user-images.githubusercontent.com/74461477/139423303-d8791117-ba5a-4f5f-8f32-2f6c7f87047d.png"/>
 
 ### Donations 💲 (very appreciated) 
 
