@@ -6,7 +6,8 @@
 - 👨🏼‍💻 I currently work full time at [OPTEN AG](https://www.opten.ch/) (Switzerland)
 - 📄 I'm a certified Umbraco Professional
 - 🔭 I’m currently working on small private projects, but am ready to start big ones anytime!
-- 📫 How to reach me: Add me on Discord ([Jiron](https://discordapp.com/users/501819491764666386/)), join my [Discord Server](https://discord.gg/zmE5JnjsMa) or send me an E-Mail to: contact@jiron.dev.
+- 📫 How to reach me: Add me on Discord ([Jiron](https://discordapp.com/users/1397168033947979806/)), join my [Discord Server](https://discord.gg/zmE5JnjsMa) or send me an E-Mail to: contact@jiron.dev.
+- ❗**Watch out for impersonators / hackers! The account [Fake Jiron 1](https://discordapp.com/users/1474578173743333520/) claimed my username and is impersonating me, while [Fake Jiron 2](https://discordapp.com/users/501819491764666386/) used to be mine until it was hacked!**
 - ⚡ Fun fact: I'm pretty good at coding Discord bots :)
 
 ### 🔗 Social Media
