@@ -65,7 +65,3 @@ Currently learning:
 ### 📜 Certifications
 
 !["Umb Cert"](https://raw.githubusercontent.com/Jiron/Jiron/refs/heads/main/Umbraco_Cert_Small.png)
-
-### 💲 Donations (very appreciated)
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jiron)
