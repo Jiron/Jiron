@@ -1,5 +1,5 @@
 ### Hello World, I'm [Jiron](https://www.jiron.dev/) 👋
-(Jokes aside, my actual name is Manassés)
+(Or Manassés if you know me closer)
 
 Software developer from the Zürich area, Switzerland 🇨🇭. I build web stuff with .NET and Umbraco, tinker way too much with my homelab, and do most of my coding AI-assisted.
 
@@ -60,7 +60,7 @@ Currently learning:
 - [Visual Studio](https://visualstudio.microsoft.com/)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - [DBeaver](https://dbeaver.io/)
-- [Notepad++](https://notepad-plus-plus.org/)
+- [Notepad++](https://notepad-plus-plus.org/) (the goat)
 
 ### 📜 Certifications
 
