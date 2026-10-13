@@ -20,7 +20,7 @@ Software developer from the Zürich area, Switzerland 🇨🇭. I build web stuf
 
 ### 🛠️ What I'm building
 
-- 🌐 **[Ligata](https://ligata.ch/)**: my small website service for businesses
+- 🌐 **Websites for SMEs**: my own websites and web apps for small local businesses
 - 🧩 **Umbraco Assistant** (in progress): an AI assistant for the Umbraco backoffice with permission modes, page restrictions and action logging
 - 💬 **Self-hosted support chatbot** (in progress): website + WhatsApp, running on my own GPU with a custom knowledge base
 - 🎙️ **Local voice assistant «Jarvis»**: fully offline, no cloud needed. Handles phone calls and emails and controls my phone and PC
