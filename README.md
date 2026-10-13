@@ -23,12 +23,13 @@ Software developer from the Zürich area, Switzerland 🇨🇭. I build web stuf
 - 🌐 **[Ligata](https://ligata.ch/)**: my small website service for businesses
 - 🧩 **Umbraco Assistant** (in progress): an AI assistant for the Umbraco backoffice with permission modes, page restrictions and action logging
 - 💬 **Self-hosted support chatbot** (in progress): website + WhatsApp, running on my own GPU with a custom knowledge base
-- 🎙️ **Local voice assistant**: fully offline, no cloud needed
-- 🖥️ **Homelab**: 24/7 mini server, Hyper-V VMs with GPU partitioning, eGPU (RTX 3060) for local LLMs, Docker/Coolify, Cloudflare and some game servers
+- 🎙️ **Local voice assistant «Jarvis»**: fully offline, no cloud needed. Handles phone calls and emails and controls my phone and PC
+- ❤️ **Heart data app for my dad**: he takes a photo of his heart monitor's display in the app, AI reads every value and fills in the form
+- 🖥️ **Homelab**: 24/7 mini server, Hyper-V VMs with GPU partitioning, eGPU (RTX 3060) and a Ryzen AI Max+ 395 workstation with 128 GB for local LLMs, Docker/Coolify, Cloudflare and some game servers
 
 ### 🧠 Knowledge
 
-[![Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,js,html,css,sass,react,angular,nodejs,discordjs,tailwind,bootstrap,mongodb,cloudflare,git,github)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,js,html,css,sass,react,angular,nodejs,discordjs,tailwind,bootstrap,java,spring,py,mongodb,docker,linux,azure,cloudflare,git,github)](https://skillicons.dev)
 
 Lots of experience with:
 
@@ -41,11 +42,16 @@ Lots of experience with:
 
 Some experience with:
 
+- Java, Spring Boot and Android from school projects, e.g. [SpringBootCluedo](https://github.com/Jiron/SpringBootCluedo) and [CareGuardian](https://github.com/Jiron/CareGuardian)
+- Python
 - Angular, React.js, Vue.js
 - SQL, MariaDB, MongoDB
-- Azure
-- Docker (basics)
-- Local LLMs (Ollama, llama.cpp), tool calling, agent workflows, MCP
+- Shopify (a few client projects)
+- Cloudflare (DNS, Pages, Tunnel)
+- Azure, Azure DevOps
+- Docker and Linux (basics)
+- Local LLMs (Ollama, llama.cpp, Qwen, Gemma), tool calling, agent workflows, MCP, RAG
+- Local speech: Whisper, Piper, Kokoro
 - Internal IT: Microsoft 365, user management, 3CX telephony
 
 Currently learning:
@@ -56,6 +62,7 @@ Currently learning:
 ### ⚡ Tools
 
 - [Claude Code](https://www.anthropic.com/claude-code)
+- [GitHub Copilot](https://github.com/features/copilot)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Visual Studio](https://visualstudio.microsoft.com/)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
