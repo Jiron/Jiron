@@ -18,6 +18,10 @@ Software developer from the Zürich area, Switzerland 🇨🇭. I build web stuf
 [<img align="left" alt="Linkedin" width="25px" src="https://user-images.githubusercontent.com/74461477/139423303-d8791117-ba5a-4f5f-8f32-2f6c7f87047d.png"/>](https://ch.linkedin.com/in/manassés-zähnler-71406a222)
 <br>
 
+### ❤️ Support my work
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-db61a2?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Jiron)
+
 ### 🛠️ What I'm building
 
 - 🌐 **Websites for SMEs**: my own websites and web apps for small local businesses
