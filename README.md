@@ -29,7 +29,7 @@ Software developer from the Zürich area, Switzerland 🇨🇭. I build web stuf
 - 💬 **Self-hosted support chatbot** (in progress): website + WhatsApp, running on my own GPU with a custom knowledge base
 - 🎙️ **Local voice assistant «Jarvis»**: fully offline, no cloud needed. Handles phone calls and emails and controls my phone and PC
 - ❤️ **Heart data app for my dad**: he takes a photo of his heart monitor's display in the app, AI reads every value and fills in the form
-- 🖥️ **Homelab**: 24/7 mini server, Hyper-V VMs with GPU partitioning, eGPU (RTX 3060) and a Ryzen AI Max+ 395 workstation with 128 GB for local LLMs, Docker/Coolify, Cloudflare and some game servers
+- 🖥️ **Homelab**: 24/7 mini server, Hyper-V VMs with GPU partitioning, eGPU (Tesla V100 32GB) and a Ryzen AI Max+ 395 workstation with 128 GB for local LLMs, Docker/Coolify, Cloudflare and some game servers
 
 ### 🧠 Knowledge
 
